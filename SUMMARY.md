@@ -29,4 +29,8 @@
 * [高级配置](8. Advanced Settings/README.md)
   * [设置系统变量](8. Advanced Settings/8.1. Setting System Variable.md)
   * [设置模型属性字典](8. Advanced Settings/8.2. Setting Model Attribute's Wordbook.md)
+  * [注册自定义驱动](8. Advanced Settings/8.3. Register Driver.md)
+    * [注册查询驱动](8. Advanced Settings/8.3.1. Register Query Driver.md)
+    * [注册视图动作驱动](8. Advanced Settings/8.3.2. Register Action Driver.md)
+    * [注册系统变量驱动](8. Advanced Settings/8.3.3. Register Variable Driver.md)
 * [案例](9. User Case/README.md)
