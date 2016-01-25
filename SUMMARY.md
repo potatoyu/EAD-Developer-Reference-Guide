@@ -11,7 +11,7 @@
 * [视图](4. View/README.md)
   * [创建视图](4. View/4.1. Create View.md)
   * [创建视图属性](4. View/4.2. Create View Attributes.md)
-  * [设置视图动作](4. View/4.3. Create View Actions.md)
+  * [创建视图动作](4. View/4.3. Create View Actions.md)
   * [创建视图过滤器](4. View/4.4. Create View Filters.md)
 * [应用](5. Application/README.md)
   * [创建应用](5. Application/5.1. Create Application.md)
