@@ -1,6 +1,6 @@
-# Ead-Developer-Reference-Guide
+# EAD-Developer-Reference-Guide
 
-Ead Developer Reference Guide -《EAD 开发者指南》
+EAD Developer Reference Guide -《EAD 开发者指南》
 
 说明：本文档对最新版本的 EAD 配置开发进行了详细说明。
 
