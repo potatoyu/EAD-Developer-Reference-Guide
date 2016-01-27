@@ -2,9 +2,12 @@
 
 EAD Developer Reference Guide -《EAD开发者指南》
 
-说明：本文档兰州西云图信息技术有限公司对自己公司推出的最新版本的**EAD云应用开发平台**的配置开发进行的详细说明。
+### EAD说明
 
-特点：
+本文档兰州西云图信息技术有限公司对自己公司推出的最新版本的**EAD云应用开发平台**的配置开发进行的详细说明。
+
+### EAD特点
+
   0. 信息模型
     - EAD 是由数据模型做支撑，其他一切都是基于数据模型；
   0. 灵活的查询配置
@@ -29,6 +32,7 @@ EAD Developer Reference Guide -《EAD开发者指南》
     - 前后端通过Restful API进行交换访问；
     - 对于不同的应用，可以只开发前端样式，进行简单配置即可；
 
+### 关注EAD
 
 如感兴趣，可以star或fork该[仓库](https://github.com/xiyouqi/Ead-Developer-Reference-Guide)！
 
